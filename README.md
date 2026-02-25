@@ -1,7 +1,5 @@
 # Challenge TelecomX
 
-# 📊 Análisis de Churn para TelecomX
-
 ## 1. Generalidades
 Este proyecto está orientado al análisis de datos de los clientes de TelecomX con el objetivo de identificar los factores que fomentan la fuga de clientes (churn). El informe final expondrá los factores que más influyen en las decisiones de los clientes en riesgo y ofrecer recomendaciones estratégicas para mejorar su experiencia.
 
